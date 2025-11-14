@@ -38,10 +38,10 @@ This project is ideal for **backend-focused developers** and demonstrates best p
 
 ## Tech Stack
 
-| Layer           | Technology                  |
+| Layer           | Technology                 |
 |-----------------|----------------------------|
 | Backend         | Java 17, Spring Boot 3.2   |
-| Database        | PostgreSQL 15              |
+| Database        | MySQL 8.0                  |
 | Build Tool      | Maven 3.9                  |
 | Security        | Spring Security, JWT       |
 | Validation      | Jakarta Validation API     |
